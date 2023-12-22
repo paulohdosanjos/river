@@ -1,6 +1,6 @@
 Nesse projeto buscamos estudar formas nas quais um agente inteligente pode explicar seu resultado para o usuário.
 
-# Explicacação
+# Explicação
 
 ## Problemas de interpretabilidade
 
